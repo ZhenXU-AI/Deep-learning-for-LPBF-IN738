@@ -1,6 +1,8 @@
 # Deep Learning for LPBF IN738
 
-Welcome to CreepData platform for the Deep Learning for LPBF IN738 project. This repository provides the complete code and dataset necessary for our research.
+Welcome to CreepData, a comprehensive platform developed by XUzhen. This repository houses the complete codebase and dataset, which are fundamental to our research endeavors.
+
+The Deep Learning for LPBF IN738 project follows the MIT license.
 
 In this project, we harness the power of deep learning techniques, including DNN (Deep Neural Networks), LSTM (Long Short-Term Memory), GRU (Gated Recurrent Unit), and CNN (Convolutional Neural Network), to predict the creep strain of LPBF IN738 high-temperature alloy over time.
 
